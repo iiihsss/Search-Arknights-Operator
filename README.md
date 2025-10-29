@@ -1,5 +1,28 @@
-Tugas mata kuluian pak hasan dc
+Tugas mata kuliah Dasar Pemrograman
 
-ya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 hati-hati git force ya mas
